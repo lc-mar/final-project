@@ -111,11 +111,11 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Developers
 
-Caden Witbeck - [Github](https://example.com)
-Drew Selden  - [Github](https://example.com)
-Adam Andrzejczak - [Github](https://example.com)
-Lauren Marcinek - [Github](https://example.com)
-Cody Schenk - [Github](https://example.com)
+* Caden Witbeck - [Github](https://example.com)
+* Drew Selden  - [Github](https://example.com)
+* Adam Andrzejczak - [Github](https://example.com)
+* Lauren Marcinek - [Github](https://example.com)
+* Cody Schenk - [Github](https://example.com)
 
 
 
